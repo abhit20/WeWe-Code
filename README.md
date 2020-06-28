@@ -1,4 +1,4 @@
-# WeWeCode
+# WeWe Code
 
 Personal projects can be tough to think of and difficult to embark on. We wanted to leverage the power of peer programming that VS Code's live share offers along with the sense of community opensource platforms provide. 
 
