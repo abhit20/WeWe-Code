@@ -6,7 +6,7 @@ WeWe Code extension allows users to easily post their project Live Share link wi
 
 ## Extension in Action
 
-
+![](WeWe_Code.gif)
 
 ## Installation
 
@@ -25,5 +25,6 @@ Install the "WeWe Code" extension from the Visual Studio Code marketplace
 
 * WeWe Code Website: https://wewecode.herokuapp.com
 * VS Code Extension: https://marketplace.visualstudio.com/items?itemName=wewecode.WeWeCode
+* Youtube Demo Link: https://www.youtube.com/watch?v=szcwtAr7fe8
 * Devpost: https://devpost.com/software/wewecode
 * Back-end and website code: https://github.com/duttar18/wewecode
