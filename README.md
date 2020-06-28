@@ -16,3 +16,10 @@ Install the "WeWe Code" extension from the Visual Studio Code marketplace
 3. Next, enter all the requested information
 4. Press 'Enter' to post
 5. You will get a notification at the bottom right after your project is posted
+
+## External Links
+
+WeWe Code Website: https://wewecode.herokuapp.com
+VS Code Extension: https://marketplace.visualstudio.com/items?itemName=wewecode.WeWeCode
+Devpost: https://devpost.com/software/wewecode
+Back-end and website code: https://github.com/duttar18/wewecode
