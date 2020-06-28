@@ -4,6 +4,10 @@ Personal projects can be tough to think of and difficult to embark on. We wanted
 
 WeWe Code extension allows users to easily post their project Live Share link with descriptions onto the WeWe Code site. They can also cap the amount of peers they are looking for. Peers looking to join projects can scroll through WeWe Code web interface to find a project of their liking.
 
+## Extension in Action
+
+
+
 ## Installation
 
 Install the "WeWe Code" extension from the Visual Studio Code marketplace
@@ -19,7 +23,7 @@ Install the "WeWe Code" extension from the Visual Studio Code marketplace
 
 ## External Links
 
-WeWe Code Website: https://wewecode.herokuapp.com
-VS Code Extension: https://marketplace.visualstudio.com/items?itemName=wewecode.WeWeCode
-Devpost: https://devpost.com/software/wewecode
-Back-end and website code: https://github.com/duttar18/wewecode
+* WeWe Code Website: https://wewecode.herokuapp.com
+* VS Code Extension: https://marketplace.visualstudio.com/items?itemName=wewecode.WeWeCode
+* Devpost: https://devpost.com/software/wewecode
+* Back-end and website code: https://github.com/duttar18/wewecode
